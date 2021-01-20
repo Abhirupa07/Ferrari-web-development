@@ -1,0 +1,12 @@
+.bdy{
+    background-color: black;
+    color: white;
+}
+
+#header{
+    display: inline;
+}
+
+#head li{
+    display: inline;
+}
